@@ -1,7 +1,7 @@
 name: Expression
 favicon: null
-layout_spectrum: 0.9893374119419605
-typography_spectrum: 0.8890646463260055
+layout_spectrum: 0
+typography_spectrum: 0.57505
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.9039862314239144
-  lightness: 0.9398047237191349
-  saturation: 0.916212062118575
-  rhythmicContrast: 0.32166977250017226
+    - '#f2f2f2'
+    - '#407d99'
+    - '#6e9bb0'
+    - '#d7e0e4'
+    - '#9dbac7'
+  brandStrength: 1
+  lightness: 0.125
+  saturation: 0.9375
+  rhythmicContrast: 0.5
 purpose: []
